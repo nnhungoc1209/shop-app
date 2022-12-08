@@ -1,16 +1,15 @@
-# shop_app
+# Overview
 
-A new Flutter project.
+This project is a simple mobile shop application.
 
-## Getting Started
+## Description
 
-This project is a starting point for a Flutter application.
+This is a project for learning purposes. In this project, I implemented Provider for state management and Firebase database.
 
-A few resources to get you started if this is your first Flutter project:
+## Contact
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you have any questions or feedback about this project, please feel free to contact me via:
+- [Facebook](https://www.facebook.com/nhungocc1212/)
+- [Linkedin](https://www.linkedin.com/in/nhungoc-nguyen-1a969b233/)
+- [GitHub](https://github.com/nnhungoc1209)
+- [GitLab](https://gitlab.com/nnhungoc1209)
